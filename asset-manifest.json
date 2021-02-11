@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/loading-page-deploy/static/css/main.254d40a6.chunk.css",
+    "main.js": "/loading-page-deploy/static/js/main.d412ec28.chunk.js",
+    "main.js.map": "/loading-page-deploy/static/js/main.d412ec28.chunk.js.map",
+    "runtime-main.js": "/loading-page-deploy/static/js/runtime-main.c5cb68f9.js",
+    "runtime-main.js.map": "/loading-page-deploy/static/js/runtime-main.c5cb68f9.js.map",
+    "static/js/2.678f4e4c.chunk.js": "/loading-page-deploy/static/js/2.678f4e4c.chunk.js",
+    "static/js/2.678f4e4c.chunk.js.map": "/loading-page-deploy/static/js/2.678f4e4c.chunk.js.map",
+    "static/js/3.63d3cae5.chunk.js": "/loading-page-deploy/static/js/3.63d3cae5.chunk.js",
+    "static/js/3.63d3cae5.chunk.js.map": "/loading-page-deploy/static/js/3.63d3cae5.chunk.js.map",
+    "index.html": "/loading-page-deploy/index.html",
+    "static/css/main.254d40a6.chunk.css.map": "/loading-page-deploy/static/css/main.254d40a6.chunk.css.map",
+    "static/js/2.678f4e4c.chunk.js.LICENSE.txt": "/loading-page-deploy/static/js/2.678f4e4c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5cb68f9.js",
+    "static/js/2.678f4e4c.chunk.js",
+    "static/css/main.254d40a6.chunk.css",
+    "static/js/main.d412ec28.chunk.js"
+  ]
+}
