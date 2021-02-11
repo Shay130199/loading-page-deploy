@@ -1,5 +1,7 @@
-import logo from './logo.svg';
+import logo from "../src/assets/logo.png";
+import title from "../src/assets/boost-me.png";
 import './App.css';
+
 
 function App() {
   return (
@@ -7,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        <img src={title} className="Title"></img>
         </p>
         <a
           className="App-link"
@@ -15,11 +17,14 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
         </a>
+        <p1>
+        <h1>LOADING....</h1>
+        </p1>
       </header>
     </div>
   );
 }
+
 
 export default App;
